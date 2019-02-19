@@ -34,3 +34,20 @@ li select{
   width: 170px;
   border-radius: 2px;
 }
+.row2{
+  background-color: #222222;
+}
+.row2L{
+  margin: 0 auto;
+  max-width: 930px;
+  max-height: 60px;
+  width: 100%;
+  color: #c0943d;
+}
+.row2L div{
+  float: left;
+}
+.row2L a{
+  color: #c0943d;
+  text-decoration-line: none;
+}
