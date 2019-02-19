@@ -39,10 +39,14 @@ li select{
 }
 .row2L{
   margin: 0 auto;
+  width: 30%;
   max-width: 930px;
   max-height: 60px;
-  width: 100%;
   color: #c0943d;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-column-gap: 1px;
+  padding: 5px;
 }
 .row2L div{
   float: left;
@@ -51,3 +55,4 @@ li select{
   color: #c0943d;
   text-decoration-line: none;
 }
+
